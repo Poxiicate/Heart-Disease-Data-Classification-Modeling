@@ -1,8 +1,9 @@
-# Heart-Disease-Data-Classification-Modeling
-I used heart disease data to create predictable machine learning model + EDA
+Heart-Disease-Data-Classification-Modeling
 
-Project level ==> First aspect => EDA => Preprocessing => Modeling, Optimization, Evaluation 
+I used heart disease data to create a predictive machine learning model + EDA 
 
-Model used => naive bayes, svm, knn, decision tree, logistic regression, mlp 
+Project level ==> First aspect => EDA => Preprocessing => Modeling, Optimization, Evaluation   
 
-This is my first modeling project
+Model used => Naive Bayes, SVM, KNN, Decision Tree, logistic regression, MLP. 
+
+This is my first modeling project!
